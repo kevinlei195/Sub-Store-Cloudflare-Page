@@ -231,7 +231,6 @@ const nodeStubPlugin = {
             'https',
             'os',
             'crypto',
-            'yaml',
             'dgram',
         ];
 
