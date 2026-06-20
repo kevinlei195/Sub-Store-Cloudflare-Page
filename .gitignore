@@ -4,3 +4,7 @@ pages-dist/_worker.js
 .wrangler/
 .dev.vars
 wrangler.toml
+sub-store-value.json
+wrangler.log
+DEPLOY.md
+KV_Namespace_ID
